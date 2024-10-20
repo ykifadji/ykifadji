@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Yani!
 
-I’m a passionate software engineer specializing in AI, web development. I love solving complex problems and learning new technologies.
+I’m a student software engineer actually in 42's Common Core program, I'm interested in AI and web development. I love solving complex problems and learning new technologies.
 
 ## 🔧 Skills
 
